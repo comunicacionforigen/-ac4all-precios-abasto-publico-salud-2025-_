@@ -1,0 +1,24 @@
+﻿Clave CNI,Insumo,Entidades (A/B),Mediana A ($),Mediana B ($),Relación A/B
+010.000.0104.00,Paracetamol 500 mg,1 / 3,13.80,6.13,Superior
+010.000.0262.00,Lidocaína 2 %,2 / 4,197.98,115.95,Superior
+010.000.0439.00,Salbutamol 100 mcg/dosis,2 / 3,24.97,48.95,Inferior
+010.000.1050.01,Insulina humana NPH,2 / 4,78.95,72.00,Superior
+010.000.1937.00,Ceftriaxona 1 g,1 / 5,42.15,31.00,Superior
+010.000.1969.00,Azitromicina 500 mg,1 / 2,12.00,48.83,Inferior
+010.000.2111.01,Amlodipino 5 mg,1 / 4,9.26,9.75,Inferior
+010.000.2128.01,Amoxicilina 500 mg,2 / 2,22.00,25.48,Inferior
+010.000.2520.00,Losartán 50 mg,2 / 5,16.39,12.10,Superior
+010.000.3407.00,Naproxeno 250 mg,2 / 4,32.58,26.51,Superior
+010.000.3630.00,Glucosa 5 %,1 / 4,29.47,34.05,Inferior
+010.000.4255.00,Ciprofloxacino 500 mg,2 / 2,4.00,6.12,Inferior
+010.000.5106.00,Atorvastatina 20 mg,1 / 3,47.93,34.37,Superior
+010.000.5106.01,Atorvastatina 20 mg,1 / 3,11.40,50.00,Inferior
+010.000.5165.00,Metformina 850 mg,1 / 4,23.78,21.04,Superior
+010.000.5186.01,Omeprazol 20 mg,1 / 2,18.38,14.49,Superior
+010.000.5186.02,Omeprazol 20 mg,2 / 1,9.81,9.81,Igual
+010.000.5941.00,Ibuprofeno 400 mg,2 / 2,8.24,9.05,Inferior
+060.168.6686,Catéter intravenoso 22 G,2 / 1,232.85,215.60,Superior
+060.436.0107,Gasa estéril 10 × 10 cm,1 / 5,155.15,127.00,Superior
+060.550.1279,Jeringa desechable 3 mL,1 / 3,2.26,1.65,Superior
+060.550.2608,Jeringa desechable 5 mL,1 / 3,2.36,4.43,Inferior
+060.953.2866,Venda elástica 10 cm × 5 m,1 / 5,114.32,83.18,Superior

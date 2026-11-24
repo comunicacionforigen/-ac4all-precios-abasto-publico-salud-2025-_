@@ -1,0 +1,37 @@
+﻿Clave CNI,Insumo,Entidades con precio (cualquier naturaleza),Grupo principal,Entidades en grupo,Mediana estatal MXN,Mínimo medianas entidad MXN,Máximo medianas entidad MXN,Referencia mediana Compra Consolidada MXN,Diferencia absoluta MXN,Diferencia porcentual,Estado comparabilidad,Rango entre medianas MXN,Escenario 1000 u/entidad MXN,Entidades > mediana grupo
+010.000.0104.00,Paracetamol 500 mg; tableta,10,Registro estatal,6,7.234999999999999,5.3,83.15,2.93,4.305,146.92832764505118,Condicionada,77.85000000000001,82800.0,3
+010.000.0262.00,Lidocaína 2%; frasco SOLUCIÓN INYECTABLE AL 2%,10,Registro estatal,7,120.41,102.37,356.81,120.41,0.0,0.0,Condicionada,254.44,476130.0,3
+010.000.0439.00,Salbutamol 100 mcg/dosis; inhalador,9,Registro estatal,6,39.7275,15.9,347.985,14.3,25.4275,177.8146853146853,Condicionada,332.08500000000004,323172.5,3
+010.000.1050.01,Insulina humana NPH 100 UI/mL; frasco 10 mL,8,Registro estatal,6,71.995,49.64,154.1,49.769999999999996,22.22500000000001,44.655414908579495,Condicionada,104.46,130354.99999999997,3
+010.000.1937.00,Ceftriaxona 1 g; frasco ámpula Ceftriaxona 1 g; frasco ámpula,12,Registro estatal,8,33.9375,23.259999999999998,55.0,10.68,23.2575,217.76685393258427,Condicionada,31.740000000000002,35669.99999999999,4
+010.000.1969.00,Azitromicina 500 mg; tableta,8,Registro estatal vinculado a suministro federal,5,12.004999999999999,11.2,86.46,11.42,0.5849999999999991,5.122591943957966,Condicionada,75.25999999999999,74455.0,1
+010.000.1969.01,Azitromicina 500 mg; tableta,3,Registro estatal,2,36.2625,35.11,37.415,14.5,21.762500000000003,150.08620689655174,Condicionada,2.3049999999999997,1152.4999999999964,1
+010.000.2111.01,Amlodipino 5 mg; tableta TABLETA O CAPSULA Cada tableta o capsula contiene,11,Registro estatal,6,9.745000000000001,9.25,13.345,6.8,2.945000000000001,43.30882352941179,Condicionada,4.095000000000001,6709.999999999997,3
+010.000.2128.01,Amoxicilina 500 mg; cápsula,8,Registro estatal vinculado a suministro federal,5,22.0,19.0,28.96,22.0,0.0,0.0,Condicionada,9.96,6960.000000000001,1
+010.000.2520.00,Losartán 50 mg; tableta,13,Registro estatal,9,14.26,7.0,99.8,7.0,7.26,103.7142857142857,Condicionada,92.8,102939.99999999999,4
+010.000.3407.00,Naproxeno 250 mg; tableta,10,Registro estatal,6,26.509999999999998,10.37,54.78,10.885,15.624999999999998,143.546164446486,Condicionada,44.410000000000004,37610.00000000001,3
+010.000.3609.00,Cloruro de sodio 0.9%; bolsa 500 mL  SOLUCIÓN INYECTABLE AL 0.9% Cada 100 mL contienen,11,Registro estatal,7,27.63,14.4,41.57,8.46,19.169999999999998,226.59574468085106,Condicionada,27.17,28680.000000000004,3
+010.000.3630.00,Glucosa 5%; bolsa 500 mL SOLUCIÓN INYECTABLE AL 5 % Cada 100 mL contiene,10,Registro estatal,6,34.05,8.98,185.0,11.3,22.749999999999996,201.32743362831854,Condicionada,176.02,160930.0,3
+010.000.4255.00,Ciprofloxacino 500 mg; tableta,9,Registro estatal vinculado a suministro federal,5,4.0,4.0,8.24,4.0,0.0,0.0,Condicionada,4.24,5165.0,2
+010.000.5106.00,Atorvastatina 20 mg; tableta,6,Registro estatal,5,47.93,13.864999999999998,215.0,9.5,38.43,404.52631578947364,Condicionada,201.135,171195.0,2
+010.000.5106.01,Atorvastatina 20 mg; tableta,8,Registro estatal,6,47.4,11.4,75.0,11.4,36.0,315.7894736842105,Condicionada,63.6,44620.0,3
+010.000.5165.00,Metformina 850 mg; tableta,9,Registro estatal,6,21.0375,6.0,23.78,7.98,13.057500000000001,163.6278195488722,Condicionada,17.78,3062.4999999999964,3
+010.000.5186.01,Omeprazol 20 mg; cápsula,4,Registro estatal,3,18.38,7.975,21.009999999999998,4.84,13.54,279.75206611570246,Condicionada,13.034999999999998,2629.999999999999,1
+010.000.5186.02,Omeprazol 20 mg; cápsula,6,Registro estatal vinculado a suministro federal,5,9.81,9.69,16.0,,,,Condicionada,6.3100000000000005,6250.0,2
+010.000.5941.00,Ibuprofeno 400 mg; tableta,7,Registro estatal vinculado a suministro federal,6,8.32,8.16,9.93,8.32,0.0,0.0,Condicionada,1.7699999999999996,2090.0,2
+060.004.0109,Abatelenguas madera; pieza,8,Registro estatal,5,159.0,125.0,234.43,108.505,50.495000000000005,46.53702594350491,Condicionada,109.43,118910.0,2
+060.168.6686,Catéter intravenoso 22 G; estéril,8,Registro estatal vinculado a suministro federal,4,215.6,215.6,250.1,217.8,-2.200000000000017,-1.0101010101010166,Condicionada,34.5,34500.0,1
+060.436.0107,Gasa estéril 10 × 10 cm,10,Registro estatal,6,132.265,110.89,188.9118,91.14,41.124999999999986,45.122887864823326,Condicionada,78.0218,84801.80000000002,3
+060.456.0631,Guante de exploración nitrilo; mediano,5,Registro estatal,4,6.5,4.9,134.0,4.25,2.25,52.941176470588225,Condicionada,129.1,127750.0,2
+060.456.0698,Guante de exploración nitrilo; mediano,2,Registro estatal,1,0.72,0.72,0.72,133.875,,,No determinable con la información recibida,0.0,,
+060.550.1279,Jeringa desechable 3 mL; con aguja,10,Registro estatal,6,2.5375,1.25,1157.48,1.0350000000000001,1.5025,145.16908212560384,Condicionada,1156.23,1402682.5,3
+060.550.2517,Jeringa desechablec10 mL; con aguja,3,Registro estatal,2,5.315,3.69,6.94,2.09,3.2250000000000005,154.30622009569382,Condicionada,3.2500000000000004,1625.0,1
+060.550.2608,Jeringa desechable 5 mL; con aguja,10,Registro estatal,6,3.6477,2.36,300.0,0.915,2.7327,298.655737704918,Condicionada,297.64,307182.3,3
+060.621.0698,Cubrebocas quirúrgico tricapa,2,Registro estatal vinculado a suministro federal,2,0.855,0.79,0.92,0.79,0.06499999999999995,8.227848101265822,Condicionada,0.13,65.00000000000006,1
+060.799.0025,"Juego de sábanas, repelentes y desechables",5,Registro estatal,2,45.9,42.5,49.3,23.89,22.009999999999998,92.13059857681036,Condicionada,6.799999999999997,3399.9999999999986,1
+060.953.2866,Venda elástica 10 cm × 5 m,11,Registro estatal,8,101.5175,39.0,171.8,67.0,34.5175,51.51865671641791,Condicionada,132.8,130800.00000000001,4
+080.784.0467,Prueba rápida de embarazo hCG; orina; pieza,4,Registro estatal,2,313.95,2.8,625.1,2.8,311.15,11112.5,Condicionada,622.3000000000001,311150.00000000006,1
+080.829.4342,Alcohol etílico 70%; envase,4,Registro estatal,3,1065.77,862.07,1754.0,642.46,423.30999999999995,65.88892693708557,Condicionada,891.93,688230.0,1
+080.829.5356,Prueba rápida de VIH anticuerpos; pieza,2,Registro estatal vinculado a suministro federal,2,37.8,35.0,40.6,34.085,3.7149999999999963,10.899222531905517,Condicionada,5.600000000000001,2800.000000000004,1
+080.830.4646,Alcohol etílico 70%; envase,3,Registro estatal,3,600.0,171.0,943.97,53.3,546.7,1025.7035647279552,Condicionada,772.97,343970.0,1
+080.980.0001,Prueba rápida de VIH anticuerpos; pieza,4,Registro estatal,3,33.582,33.582,38.164,32.9,0.6820000000000022,2.0729483282674765,Condicionada,4.582000000000001,4582.000000000001,1
